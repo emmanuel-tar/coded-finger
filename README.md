@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Tar Emmanuel Tor</h1>
 <h3 align="center">A passionate Software developer from Nigeria</h3>
-<img align="right" alt="Coding" wiidth="400" src="https://im2.ezgif.com/tmp/ezgif-2-b78febb736.gif"
+<img align="right" alt="Coding" wiidth="400" src="https://im2.ezgif.com/tmp/ezgif-2-4ad435e070.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coded-finger&label=Profile%20views&color=0e75b6&style=flat" alt="coded-finger" /> </p>
 
